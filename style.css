@@ -19,9 +19,9 @@ body {
   height: 100%;
   background-image: url(img/bg-ultah.webp);
   background-size: cover;
-  background-position: end;
+  background-position: right 12% bottom 45%;
   z-index: -1;
-  /* filter: grayscale(); */
+  filter: blur(4px);
 }
 
 .hero {
